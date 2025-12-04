@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+  <title>Herding CATs @ CHI 2026</title>
+  <style>
+  /* basic page structure and defaults */
+  :root { --main-color: darkblue; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: "Source Sans Pro", sans-serif; font-size: 18px; line-height: 1.5; }
+  @media only screen and (max-width: 480px) { body { font-size: 16px; } }
+  .container { padding: 2ch; margin: 0 auto; max-width: 85ch; }
+  ::selection { background: var(--main-color); color: white; }
+  /* page header */
+  #page-header { background: var(--main-color); color: white; }
+  h1 a { color: inherit; text-decoration: none; }
+  /* main page content */
+  h2 { margin-bottom: 1rem; }
+  p, ul { margin-top: 1rem; margin-bottom: 1rem; }
+  p:last-child, ul:last-child { margin-bottom: 0; }
+  ul { padding-left: 1rem; }
+  /*li { margin-bottom: 0.5rem; }*/
+  a { color: var(--main-color); }
+  a[href=""] { color: red; /* highlight broken links */ }
+  .figure img { display: block; width: 100%; }
+  .figure .caption { display: block; color: #555; font-size: 14px; text-align: center; line-height: 1.5; }
+  </style>
+</head>
+<body>
+  <header id="page-header">
+    <div class="container">
+      <h1><a href=".">Herding CATs @ CHI 2026</a></h1>
+    </div>
+  </header>
+  <main>
+    <div class="container">
+      <h2>Workshop Overview</h2>
+      <div class="figure">
+        <img src="/HerdingCATs.png" alt="">
+        <em class="caption">Prior analyses of creative activity traces, including a <a href="https://dl.acm.org/doi/abs/10.1145/3059454.3059478">creative sensemaking curve</a> (A); a visualization of <a href="https://ieeexplore.ieee.org/abstract/document/9684722">trajectories through a design space</a> (B); a <a href="https://arxiv.org/abs/2502.04599">fuzzy linkograph</a> (C); and an analysis of <a href="https://dl.acm.org/doi/abs/10.1145/3555756">version control commit histories</a> (D).</em>
+      </div>
+      <p><strong>Herding CATs: Making Sense of Creative Activity Traces</strong> is a <a href="https://chi.acm.org/2026/">CHI 2026</a> workshop that aims to advance the analysis of <em>creative activity traces</em>, particularly those captured through user interaction with software creativity support tools (CSTs). Traces of creative activity constitute a rich resource for identifying the impacts of CSTs—especially AI-based CSTs—on the creative process, and may also inform general-purpose process theories of creativity. Several new approaches to making sense of these traces have been introduced in the past few years, but many of these approaches have emerged from largely disjoint research communities, hindering the development of a shared analytical toolkit. We propose to gather HCI and creativity researchers, including proponents of several different trace analysis techniques, to sketch out a <em>technique design space</em> to guide future empirically grounded research on creativity support.</p>
+      <h2>Participation</h2>
+      <p><strong style="color:red">More information coming soon! Watch this space...</strong></p>
+      <h2>Organizers</h2>
+      <ul class="organizers-list">
+        <li><a href="https://mkremins.github.io">Max Kreminski</a>, Cornell Tech</li>
+        <li><a href="https://scholar.google.com/citations?user=_lybVRkAAAAJ&hl=en">Amy Smith</a>, Queen Mary University of London</li>
+        <li><a href="https://johnr0.github.io">John Joon Young Chung</a>, Midjourney</li>
+        <li><a href="https://kihoon-son.github.io/">Kihoon Son</a>, KAIST</li>
+        <li><a href="https://qianyang.co/">Qian Yang</a>, Cornell University</li>
+        <li><a href="https://echolab.cs.vt.edu/sangwonlee/">Sang Won Lee</a>, Virginia Tech</li>
+        <li><a href="https://www.nhammad.me/">Noor Hammad</a>, Carnegie Mellon University</li>
+        <li><a href="https://www.ericrawn.media/">Eric Rawn</a>, University of California, Berkeley</li>
+        <li><a href="https://shmuh.co/">Shm Garanganao Almeda</a>, University of California, Berkeley</li>
+        <li><a href="https://zamfi.net/">J.D. Zamfirescu-Pereira</a>, University of California, Los Angeles</li>
+      </ul>
+    </div>
+  </main>
+</body>
+</html>
