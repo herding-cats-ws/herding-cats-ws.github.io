@@ -1,3 +1,6 @@
+---
+title: Herding CATs @ CHI 2026
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -21,7 +24,7 @@
   p, ul { margin-top: 1rem; margin-bottom: 1rem; }
   p:last-child, ul:last-child { margin-bottom: 0; }
   ul { padding-left: 1rem; }
-  /*li { margin-bottom: 0.5rem; }*/
+  ul.papers-list li { margin-bottom: 0.5rem; }
   a { color: var(--main-color); }
   a[href=""] { color: red; /* highlight broken links */ }
   .figure img { display: block; width: 100%; }
@@ -67,6 +70,12 @@
         <li><a href="https://www.ericrawn.media/">Eric Rawn</a>, University of California, Berkeley</li>
         <li><a href="https://shmuh.co/">Shm Garanganao Almeda</a>, University of California, Berkeley</li>
         <li><a href="https://zamfi.net/">J.D. Zamfirescu-Pereira</a>, University of California, Los Angeles</li>
+      </ul>
+      <h2>Accepted Papers</h2>
+      <ul class="papers-list">
+      {% for paper in site.data.papers_CHI2026 %}
+        <li><a href="{{paper.url}}">{{paper.title}}</a><br>{{paper.authors | join: ", "}}</li>
+      {% endfor %}
       </ul>
     </div>
   </main>

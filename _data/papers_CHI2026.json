@@ -1,0 +1,166 @@
+[
+{
+	"title": "Human-AI Interaction Traces as Blackout Poetry: Reframing AI-Supported Writing as Found-Text Creativity",
+	"authors": ["Syemin Park", "Soobin Park", "Youn-Kyung Lim"],
+	"url": "/2026/papers/p01.pdf",
+},
+{
+	"title": "What Happened and Why? Trace-Guided Micro-Episodes with Elicited User Explanations for Product Iteration",
+	"authors": ["Sirui Tao", "William P. McCarthy", "Steven P. Dow"],
+	"url": "/2026/papers/p02.pdf",
+},
+{
+	"title": "Beyond Semantic Similarity: Open Challenges for Embedding-Based Creative Process Analysis Across AI Design Tools",
+	"authors": ["Seung Won Lee", "Semin Jin", "Kyung Hoon Hyun"],
+	"url": "/2026/papers/p03.pdf",
+},
+{
+	"title": "Reassessing the value of creative activity traces for understanding and supporting creative work",
+	"authors": ["Matthew Klenk", "Shabnam Hakimi", "Matthew Hong", "Pablo Paredes", "Yan-Ying Chen"],
+	"url": "/2026/papers/p04.pdf",
+},
+{
+	"title": "Tracing Semantic Provenance: Multimodal Fuzzy Linkography for Long-Term AI-Assisted Visual Ideation",
+	"authors": ["Wen-Fan Wang", "Yi-Ting Chiu", "Max Kreminski"],
+	"url": "/2026/papers/p05.pdf",
+},
+{
+	"title": "On the Importance of Tool Selection in the Creative Process: Figure Drawing as a Research Site",
+	"authors": ["Miranda Li", "Ziv Epstein", "Cynthia Breazeal"],
+	"url": "/2026/papers/p06.pdf",
+},
+{
+	"title": "Structurally Capturing the Reasoning Moves in AI-enabled Creativity Support Tool",
+	"authors": ["Yaqing Yang", "Vikram Mohanty", "David Chuan-En Lin", "Yan-Ying Chen", "Matthew K. Hong", "Nikolas Martelaro", "Aniket Kittur"],
+	"url": "/2026/papers/p07.pdf",
+},
+{
+	"title": "From Logs to Agents: Reconstructing High-Level Creative Workflows from Low-Level Raw System Traces",
+	"authors": ["Tae Hee Jo", "Kyung Hoon Hyun"],
+	"url": "/2026/papers/p08.pdf",
+},
+{
+	"title": "Exploring Activity Traces from Live Coding Musicians",
+	"authors": ["Daniel Manesh"],
+	"url": "/2026/papers/p09.pdf",
+
+},
+{
+	"title": "Trace-Aware Workflows for Co-Creating Branded Content with Generative AI",
+	"authors": ["Taehyun Yang", "Eunhye Kim", "Zhongzheng Xu", "Fumeng Yang"],
+	"url": "/2026/papers/p10.pdf",
+},
+{
+	"title": "DrawTalking It Out: Creativity-Support Research as Creative Process Itself",
+	"authors": ["Karl Toby Rosenberg"],
+	"url": "/2026/papers/p11.pdf",
+},
+{
+	"title": "Tracking Creativity Traces in Game Jams and Hackathons",
+	"authors": ["Jeanette Falk", "Yiyi Chen"],
+	"url": "/2026/papers/p12.pdf",
+},
+{
+	"title": "Tracing the Unwritten: Toward Sensemaking-Aware Analysis of Creative Activity Traces in Narrative Writing",
+	"authors": ["Judith Kankam-Boateng"],
+	"url": "/2026/papers/p13.pdf",
+},
+{
+	"title": "Seams as Trace Infrastructure: How Tool Architecture Shapes What Creative Activity Traces Can Capture",
+	"authors": ["Deanna Gelosi"],
+	"url": "/2026/papers/p14.pdf",
+},
+{
+	"title": "Toward Machine-Interpretable Spatial Organization Patterns: Learning from Creativity Traces",
+	"authors": ["Maryam Rezaie", "Sheelagh Carpendale"],
+	"url": "/2026/papers/p15.pdf",
+},
+{
+	"title": "InfiniteCATs: Semantic Crafting as a Substrate for Creative Activity Tracing",
+	"authors": ["Nicholas Jennings", "Shm Garanganao Almeda", "Sam Poder", "Björn Hartmann"],
+	"url": "/2026/papers/p16.pdf",
+
+},
+{
+	"title": "Making Sense of (My) Traces: Practitioner and Researcher Perspectives on Trace Data",
+	"authors": ["Sarah Sterman"],
+	"url": "/2026/papers/p17.pdf",
+},
+{
+	"title": "Bridging Workspace Awareness and Creative Activity Traces: Toward a Taxonomy of Real-Time Trace Visualization Idioms",
+	"authors": ["Jeb Thomas-Mitchell", "Leping Qiu", "Fanny Chevalier"],
+	"url": "/2026/papers/p18.pdf",
+},
+{
+	"title": "Creative Activity Traces in Coding: A Proposed Methodology to Study Creativity of Novice Programmers Using GenAI",
+	"authors": ["Vittoria Frau", "Samangi Wadinambiarachchi", "Jonas Frich"],
+	"url": "/2026/papers/p19.pdf",
+},
+{
+	"title": "State of the Art(tist): Towards an Artistic User Model in Creative Activity Traces",
+	"authors": ["Grace Wang", "Nicholas Jennings"],
+	"url": "/2026/papers/p20.pdf",
+},
+{
+	"title": "Towards Linkographs for Reflective Revisitation",
+	"authors": ["Raina Cao"],
+	"url": "/2026/papers/p21.pdf",
+},
+{
+	"title": "Data Physicalization as Care: Expanding What Gets Traced Through Considering Materiality",
+	"authors": ["Izabella Rodrigues", "Jane L. E"],
+	"url": "/2026/papers/p22.pdf",
+},
+{
+	"title": "Co-herding CATs: Participatory Living Lab for CATs Analysis",
+	"authors": ["Unnati Pradhan", "Sharon Ferguson", "Jens Emil Grønbæk"],
+	"url": "/2026/papers/p23.pdf",
+
+},
+{
+	"title": "How Structure Mediates Creative Activity Traces",
+	"authors": ["Vincent Cavez"],
+	"url": "/2026/papers/p24.pdf",
+},
+{
+	"title": "Tracing Non-Dyadic Creative AI Interaction",
+	"authors": ["Carey Linda Crooks"],
+	"url": "/2026/papers/p25.pdf",
+},
+{
+	"title": "Process as Poetic Provenance",
+	"authors": ["Alicia Guo"],
+	"url": "/2026/papers/p26.pdf",
+},
+{
+	"title": "Reflections on making a Creative Activity Trace tool for Digital Artists",
+	"authors": ["Angela Bi", "Thijs Roumen"],
+	"url": "/2026/papers/p27.pdf",
+},
+{
+	"title": "TRAX: Bridging the Gap in Asynchronous Music Collaboration",
+	"authors": ["Jaywoong Jeong", "Dongwoo Kim", "Jaehong Jung", "Dohyun Ko", "Jiwon Eom", "Sangmin Lim", "Juchan Lee"],
+	"url": "/2026/papers/p28.pdf",
+},
+{
+	"title": "Tracing Recombinational Creativity: A Multi-Level Framework for Measuring Novelty in Creative Processes",
+	"authors": ["Yulin Yu"],
+	"url": "/2026/papers/p29.pdf",
+},
+{
+	"title": "From State Changes to Creative Decisions: Documenting and Interpreting Traces Across Creative Domains",
+	"authors": ["Xiaohan Peng", "Sotiris Piliouras", "Carl Abou Saada Nujaim"],
+	"url": "/2026/papers/p30.pdf",
+
+},
+{
+	"title": "Chasing RATs: Tracing Reading for and as Creative Activity",
+	"authors": ["Sophia Liu", "Shm Garanganao Almeda"],
+	"url": "/2026/papers/p31.pdf",
+},
+{
+	"title": "Multimodal Activity Traces for Creative Repurposing",
+	"authors": ["Kexue Fu", "Jingfei Huang", "Long Ling", "Toby Jia-Jun Li", "RAY LC"],
+	"url": "/2026/papers/p32.pdf",
+},
+]
